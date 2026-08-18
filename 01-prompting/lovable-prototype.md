@@ -1,21 +1,21 @@
 # Lovable Prototype · Juno
 
-> Module 1 · Prompting. The clickable Lovable prototype that brings the system prompt to life.
-
 ## Prototype link
 
-_The public Lovable share URL._
-
-_____
+https://juno-pm-yody-castro.lovable.app
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
-
-_____
+Creates PRDs based on transcripts from diferent users.
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** - Insight finding
+- Verbatims
+- Tagging
+- Prioritization
+- PRD Writting
+- **What broke / felt like a toy:** - UI
+- From the get go, the tools already comes with transcripts, although the prompt is not specifying it.
+- **What I'd change next pass:** - UI
+- Better Contrains and Format prompting
