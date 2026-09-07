@@ -2,9 +2,13 @@
 
 ## 1. Problem & Workflow
 
-The Problem: roadmap discussions at RocketShip are driven by the loudest voice in Slack rather than customer evidence. Priorities reverse weekly; stakeholder trust is eroding.
+The Problem 1: roadmap discussions at RocketShip are driven by the loudest voice in Slack rather than customer evidence. Priorities reverse weekly; stakeholder trust is eroding.
 
-Prevention: Juno explicitly prevents 'opinion-driven prioritization' - the bad decision of moving a feature up the backlog because someone in #leadership posted strongly, instead of because the cited evidence outweighs the alternatives.
+Prevention 1: Juno explicitly prevents 'opinion-driven prioritization' - the bad decision of moving a feature up the backlog because someone in #leadership posted strongly, instead of because the cited evidence outweighs the alternatives.
+
+Problem 2: The volume of weekly signals is immense, and it's impossible to keep the rhythm of digesting and collecting valuable insights to drive prioritization.
+
+Prevention 2: AI can manage the heavy lifting of processing large amounts of signals based on clear guardrails and a well-designed RAG.
 
 ## 2. Target Metrics
 
