@@ -1,8 +1,8 @@
-# Lovable Prototype · Juno
+# Claude Prototype · Juno
 
 ## Prototype link
 
-https://juno-pm-yody-castro.lovable.app
+https://claude.ai/public/artifacts/a881c724-9a84-4b51-a877-e15d75edeb5c
 
 ## What it demonstrates
 
