@@ -14,7 +14,7 @@ This repo is my final project for the **AI Product Management Certification**. E
 
 ### M1 · Prompting
 - **System prompt** — [`01-prompting/system-prompt.md`](01-prompting/system-prompt.md)
-- **Claude prototype** — _(https://claude.ai/public/artifacts/9ea28a67-8c25-48b3-88f1-73e526b765a3)_
+- **Claude prototype** — _https://claude.ai/public/artifacts/9ea28a67-8c25-48b3-88f1-73e526b765a3_
 
 ### M2 · Strategy
 - **Decision matrix** — [`02-strategy/decision-matrix.md`](02-strategy/decision-matrix.md)
