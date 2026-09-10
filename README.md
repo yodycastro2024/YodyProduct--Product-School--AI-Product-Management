@@ -2,7 +2,7 @@
 
 > _(Juno is an AI PM in charge of drafting PRDs based on signals from customers coming from slack, jira, and)_
 
-_Yody · cohort · date_
+_Yody Castro · cohort · 10/10/26
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artefact lives in its own folder; this README is the dashboard and the pitch.
 
