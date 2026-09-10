@@ -1,8 +1,8 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+> _(Juno is an AI PM in charge of drafting PRDs based on signals from customers coming from slack, jira, and)_
 
-_Your name · cohort · date_
+_Yody · cohort · date_
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artefact lives in its own folder; this README is the dashboard and the pitch.
 
