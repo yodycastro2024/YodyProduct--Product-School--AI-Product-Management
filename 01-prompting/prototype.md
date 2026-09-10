@@ -2,7 +2,7 @@
 
 ## Prototype link
 
-https://claude.ai/public/artifacts/a881c724-9a84-4b51-a877-e15d75edeb5c
+https://claude.ai/public/artifacts/9ea28a67-8c25-48b3-88f1-73e526b765a3
 
 ## What it demonstrates
 
