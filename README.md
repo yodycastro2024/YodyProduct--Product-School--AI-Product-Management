@@ -1,6 +1,6 @@
 # Juno PM
 
-> _Juno is an AI Associate PM at RocketShip that turns raw customer signal — Slack #escalations and #voice-of-customer, Zendesk P0/P1 tickets, and interview transcripts — into an evidence-ranked backlog and draft PRDs, citing a source for every priority._
+> _Juno is an AI Associate PM at RocketShip that turns raw customer signal (Slack #escalations and #voice-of-customer, Zendesk P0/P1 tickets, and interview transcripts) into an evidence-ranked backlog and draft PRDs, citing a source for every priority._
 
 _Yody Castro · AI Product Management Cohort · 10/10/26_
 
@@ -44,7 +44,7 @@ This repo is my final project for the **AI Product Management Certification**. E
 ### Where Juno is today
 - **Copilot, not agent (M2).** Juno drafts a ranked, cited backlog; the PM approves before anything publishes.
 - **A clickable prototype exists (M1)** and now runs the full harness deterministically: visible tool trace, bounded 5-turn loop, a `write_roadmap` confirmation gate, and a verification gate that either cites the strategy doc or badges the insight "Unverified."
-- **The harness is fully specified (M3 PRD, 6 surfaces)**, and the first agentic workflow — daily P0 triage into a top-3 risk list — is spec'd in M5 (ReAct, human-in-the-loop), with the M6 eval stack designed around it.
+- **The harness is fully specified (M3 PRD, 6 surfaces)**, and the first agentic workflow (daily P0 triage into a top-3 risk list) is specced in M5 (ReAct, human-in-the-loop), with the M6 eval stack designed around it.
 - **Not yet in production:** the live RAG backend over the RocketShip corpus. Today's grounding runs against a pasted strategy document, not the hourly-synced corpus described in M3.
 
 ### What ships next (next 2 sprints)
