@@ -2,7 +2,7 @@
 
 > _Juno is an AI Associate PM at RocketShip that turns raw customer signal — Slack #escalations and #voice-of-customer, Zendesk P0/P1 tickets, and interview transcripts — into an evidence-ranked backlog and draft PRDs, citing a source for every priority._
 
-_Yody Castro · cohort · 10/10/26_
+_Yody Castro · AI Product Management Cohort · 10/10/26_
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artefact lives in its own folder; this README is the dashboard and the pitch.
 
